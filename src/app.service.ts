@@ -5,7 +5,7 @@ import { ITransactionRepository } from './modules/transactions/infra/repositorie
 export class AppService {
   
   getHello(): string {
-    return 'Hello World!';
+    return 'se lascar';
   }
 
 }
